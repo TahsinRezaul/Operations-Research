@@ -1,6 +1,6 @@
 # Operations-Research
 Operation research was conducted for ATS University using MATLAB and CPLEX. There were three problems that were analyzed.
-Problem definition 1: Integer Programming 
+	Problem definition 1: Integer Programming 
 ATS University would like to welcome its new law students to campus by hosting a fundraiser. Due to the size of the fundraiser, the university decides to host the event at a law firm. The law firm has many different rooms to rent out to ATS University. The prices vary for each room due to the room capacity. The University is expecting 2000 guests to attend the event and would like to know which options will allow them to meet all necessary requirements while also minimizing the overall cost. ATS university is using all proceedings from the fundraiser towards providing the new law school students with adequate resources during their academic years.
 
 	Problem definition 2: Dynamic Programming 
